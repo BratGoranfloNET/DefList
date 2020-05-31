@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+    <!-- URL-адрес сайта коллекции -->
+   <PortalUrl>http://s001tst-asitssp/portals/vzl</PortalUrl>       
+
+    <!-- Системные параметры -->
+    <SolutionName>Sibur.SharePoint.DefList.wsp</SolutionName>    
+    
+    
+</Config>

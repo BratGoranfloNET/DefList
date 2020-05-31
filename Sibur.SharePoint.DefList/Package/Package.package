@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4f0c4779-e49d-43df-9a6b-d27c1fde4aec" solutionId="4f0c4779-e49d-43df-9a6b-d27c1fde4aec" resetWebServer="true" sharePointProductVersion="15.0" name="Sibur.SharePoint.DefList" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="DocumentFormat.OpenXml.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="Lib\DocumentFormat.OpenXml.dll" />
+    <customAssembly location="Newtonsoft.Json.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="Lib\Newtonsoft.Json.dll" />
+  </assemblies>
+  <projectItems>
+    <projectItemReference itemId="9580c103-f289-4e6e-8757-b7d2aa14b41b" />
+  </projectItems>
+</package>
